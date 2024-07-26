@@ -8,8 +8,7 @@ import (
 	"net/http"
 
 	// "net/http"
-	// "quizArena/client"
-	"quizArena/services"
+	"quiz-maker/services"
 	// "github.com/gin-gonic/gin"
 )
 
